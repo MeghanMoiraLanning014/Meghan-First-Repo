@@ -3,7 +3,7 @@ from note_service import add_note, list_notes, search_notes
 
 def main():
     while True:
-        print("\nNotes App")
+        print("\nNotes Appppp")
         print("1. Add Note")
         print("2. List Notes")
         print("3. Search Notes")
